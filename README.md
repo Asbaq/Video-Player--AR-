@@ -2,9 +2,6 @@
 
 ![WhatsApp Image 2023-01-07 at 7 00 57 PM](https://user-images.githubusercontent.com/62818241/211153430-f4294707-de45-4f14-b929-660ced9066f2.jpeg)
 
-![WhatsApp Image 2023-01-07 at 7 00 57 PM (1)](https://user-images.githubusercontent.com/62818241/211153443-a0d9fbe3-6ac0-4042-8bf0-a00296e7852e.jpeg)
-
-VUFORIA
 ## 📌 Project Overview
 
 **AR Video Player** is a Unity-based **Augmented Reality (AR) application** that plays videos using **Vuforia** image targets. This project allows users to scan a predefined **AR marker**, triggering an embedded video to play on the detected surface. The app provides an interactive and immersive **AR video playback experience** on mobile devices.
